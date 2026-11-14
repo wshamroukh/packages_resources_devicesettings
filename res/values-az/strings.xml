@@ -49,7 +49,7 @@
     <string name="ambient_display_summary_on">Bildiriş gələndə ekran oyanacaq</string>
     <string name="ambient_display_summary_off">Bildiriş gələndə ekran oyanmayacaq</string>
     <string name="ambient_display_always_on_title">Həmişə açıq</string>
-    <string name="ambient_display_always_on_summary">Saatı, bildiriş ikonlarını və digər məlumatları göstərir. Batareya istifadəsini artırır.</string>
+    <string name="ambient_display_always_on_summary">Saatı, bildiriş simgələrini və digər məlumatları göstərir. Batareya istifadəsini artırır.</string>
     <string name="tilt_sensor_title">Meyl sensoru</string>
     <string name="pickup_sensor_title">Əlinə götürmə sensoru</string>
     <string name="proximity_sensor_title">Yaxınlıq sensoru</string>
@@ -91,14 +91,12 @@
     <string name="dialog_ok">Oldu</string>
     <string name="disabled">Sıradan çıxarıldı</string>
     <string name="none">Yoxdur</string>
-    <string name="doze_settings_help_title">Kömək</string>
-    <string name="doze_settings_help_text">Bu özəllik bildiriş ekranını başlatmaq üçün sensorları istifadə edir. Seçilmiş sensor yalnız cihaz bildiriş alanda fəallaşır, batareya istifadəsini azaltmağa kömək edər. Ekran sönəndə seçilmiş sensoru fəal etmək üçün bir seçim də var, ancaq bu daha çox batereya istifadəsinə səbəb ola bilər.</string>
     <string name="button_panel_title">Əlavə düymələr</string>
     <string name="button_swap_title">Düymələri dəyişdir</string>
     <string name="button_swap_summary">Ən son tətbiqlər və geri düymələrinin yerini dəyişdir</string>
     <string name="fingerprint_title">Barmaq izi</string>
-    <string name="fingerprint_as_home_title">Əsas ekran üçün barmaq izi</string>
-    <string name="fingerprint_as_home_summary">Barmaq izi sensorunu əsas ekran düyməsi kimi istifadə edin</string>
+    <string name="fingerprint_as_home_title">Ana ekran üçün barmaq izi</string>
+    <string name="fingerprint_as_home_summary">Barmaq izi sensorunu ana ekran düyməsi kimi istifadə edin</string>
     <string name="fingerprint_wakeup_title">Barmaq izi ilə oyandır</string>
     <string name="fingerprint_wakeup_summary">Ekran sönülü olarkən barmaq izi sensorunun cihazı oyandırmağına icazə ver</string>
     <string name="fingerprint_pocketmode_title">Təsadüfi oyandırmaların qarşısını al</string>
@@ -129,7 +127,7 @@
     <string name="popup_calibration_title">Kalibrasiya</string>
     <string name="popup_calibration_summary">Açılan kamera mühərrikini kalibrlə</string>
     <string name="popup_calibration_warning_title">Mühərrik kalibrasiyası</string>
-    <string name="popup_calibration_warning_text">Kalibrləməni lazımsız istifadə etmək daimi nasazlığa səbəb ola bilər. Yalnız düzgün hərəkət etmədikdə və ya yanlış vəziyyətdə olduğu halda açılan kamera mühərrikini kalibrləmək tövsiyə olunur.</string>
+    <string name="popup_calibration_warning_text">Kalibrləmənin gərəksiz istifadəsi daimi nasazlığa səbəb ola bilər. Açılan kamera mühərrikini, yalnız düzgün hərəkət etmədikdə və ya yanlış vəziyyətdə olduğu halda kalibrləmək tövsiyə olunur.</string>
     <string name="popup_camera_tip">Xəbərdarlıq</string>
     <string name="popup_camera_takeback_failed_calibrate">Ön kamera bağlanıla bilmir. Mühərriki kalibrləməyə çalışın.</string>
     <string name="popup_camera_popup_failed_calibrate">Ön kamera açıla bilmir. Mühərriki kalibrləməyə çalışın.</string>
